@@ -1,4 +1,4 @@
-package pl.piwak.maven;
+package pl.mp.piwak.maven;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
